@@ -6,8 +6,6 @@ Finds basic information of a given IP address using web scraping.
 * bs4
 * pythonping
 
-======
-
 # How it works
 This program is not a scanner. It works with <https://censys.io/>
 The program loads a webpage with a URL with the target IP in it:
