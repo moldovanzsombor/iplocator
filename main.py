@@ -56,7 +56,7 @@ def get_intel(ip_addr, network, location, gethost, ping):
 def usage():
 	print(
 		"Usage:\n" \
-		"ipfinder [Options] [Domain/IP]\n" \
+		"ipfinder [Options] [IP]\n" \
 		"\n" \
 		"-n --network      # Basic network information\n" \
 		"-l --location     # Locoation\n" \
